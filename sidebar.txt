@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqe:home|Door43 (mqe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqe|d43-mqe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqe/archive/master.zip|d43-mqe.zip]]
+
+**Recent Changes**
+{{changes>ns = mqe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqe|Ethnologue data]]
+
